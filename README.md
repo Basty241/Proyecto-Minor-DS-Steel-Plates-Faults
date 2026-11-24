@@ -39,6 +39,7 @@ Desde el punto de vista de control de calidad e integridad estructural, el estud
 | [`Entrega1_Minor_DS.ipynb`](./Entrega1_Minor_DS.ipynb) | Notebook de Google Colab con el análisis exploratorio, visualizaciones, correlaciones y tests de hipótesis de la Entrega 1. |
 | [`Presentacion_Entrega1_Minor_DS.md`](./Presentacion_Entrega1_Minor_DS.md) | Documento técnico con el marco conceptual, definición matemática de variables, objetivos, conclusiones y bibliografía. |
 | [`assets/`](./assets/) | Figuras técnicas y diagramas de la presentación (incluyendo visualizaciones de defectos y esquemas de métricas). |
+| [`data/`](./data/) | Archivos originales del dataset (`Faults.NNA` y `Faults27x7_var`) provenientes del repositorio UCI. |
 
 ---
 
